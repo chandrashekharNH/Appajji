@@ -1,0 +1,53 @@
+{
+  "appName": "అప్పాజీ",
+
+  "home": "హోమ్",
+  "events": "కార్యక్రమాలు",
+  "media": "మీడియా",
+  "more": "మరిన్ని",
+
+  "about": "మా గురించి",
+  "donate": "దానం",
+  "gallery": "గ్యాలరీ",
+  "temple": "గ్రాండ్ దేవాలయం",
+  "language": "భాష",
+
+  "upcoming": "రాబోయేవి",
+  "past": "గతవి",
+
+  "aboutSwamiji": "స్వామీజీ గురించి",
+  "upcomingEvents": "రాబోయే కార్యక్రమాలు",
+  "viewAll": "అన్నీ చూడండి",
+  "templeHighlights": "దేవాలయ ప్రత్యేకతలు",
+
+  "heroQuote": "ధర్మాన్ని కాపాడేవారిని ధర్మమే కాపాడుతుంది",
+
+  "swamijiDesc": "ధర్మం, దయ మరియు సేవ ద్వారా మార్గదర్శనం చేసే ఆధ్యాత్మిక గురువు.",
+
+  "drawerTitle": "అప్పాజీ",
+  "drawerNavigation": "నావిగేషన్",
+  "drawerSettings": "సెట్టింగ్స్",
+
+  "drawerHome": "హోమ్",
+  "drawerAbout": "మా గురించి",
+  "drawerTemple": "గ్రాండ్ దేవాలయం",
+  "drawerDonate": "దానం",
+  "drawerGallery": "గ్యాలరీ",
+  "drawerEvents": "కార్యక్రమాలు",
+
+  "drawerLanguage": "భాష",
+
+  "templeTitle": "శ్రీ లక్ష్మీ వెంకటేశ్వర మహా దేవాలయం",
+
+  "templeVisionTitle": "దేవాలయ దృష్టి",
+  "templeVisionDesc": "భక్తి, సంస్కృతి మరియు ఆధ్యాత్మికతకు కేంద్రంగా మహా దేవాలయ నిర్మాణం.",
+
+  "templeArchitectureTitle": "వాస్తుశిల్పం & రూపకల్పన",
+  "templeArchitectureDesc": "సాంప్రదాయ ద్రావిడ శైలిలో రూపకల్పన చేయబడింది.",
+
+  "templeConstructionTitle": "నిర్మాణ స్థితి",
+  "templeConstructionDesc": "మొదటి దశ నిర్మాణం కొనసాగుతోంది.",
+
+  "templeSupportTitle": "మీ సహాయం అవసరం",
+  "templeSupportDesc": "దేవాలయ నిర్మాణానికి మీ దానం మరియు సేవ అవసరం."
+}

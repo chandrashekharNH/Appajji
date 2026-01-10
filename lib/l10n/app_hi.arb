@@ -1,0 +1,53 @@
+{
+  "appName": "अप्पाजी",
+
+  "home": "मुखपृष्ठ",
+  "events": "कार्यक्रम",
+  "media": "मीडिया",
+  "more": "अधिक",
+
+  "about": "हमारे बारे में",
+  "donate": "दान करें",
+  "gallery": "गैलरी",
+  "temple": "भव्य मंदिर",
+  "language": "भाषा",
+
+  "upcoming": "आगामी",
+  "past": "पूर्व",
+
+  "aboutSwamiji": "स्वामीजी के बारे में",
+  "upcomingEvents": "आगामी कार्यक्रम",
+  "viewAll": "सभी देखें",
+  "templeHighlights": "मंदिर की विशेषताएँ",
+
+  "heroQuote": "धर्म उनकी रक्षा करता है जो धर्म की रक्षा करते हैं",
+
+  "swamijiDesc": "धर्म, करुणा और सेवा के माध्यम से मार्गदर्शन करने वाले आध्यात्मिक गुरु।",
+
+  "drawerTitle": "अप्पाजी",
+  "drawerNavigation": "नेविगेशन",
+  "drawerSettings": "सेटिंग्स",
+
+  "drawerHome": "मुखपृष्ठ",
+  "drawerAbout": "हमारे बारे में",
+  "drawerTemple": "भव्य मंदिर",
+  "drawerDonate": "दान करें",
+  "drawerGallery": "गैलरी",
+  "drawerEvents": "कार्यक्रम",
+
+  "drawerLanguage": "भाषा",
+
+  "templeTitle": "श्री लक्ष्मी वेंकटेश्वर महा मंदिर",
+
+  "templeVisionTitle": "मंदिर की दृष्टि",
+  "templeVisionDesc": "भक्ति, संस्कृति और आध्यात्मिकता के केंद्र के रूप में भव्य मंदिर का निर्माण।",
+
+  "templeArchitectureTitle": "वास्तुकला और डिज़ाइन",
+  "templeArchitectureDesc": "पारंपरिक द्रविड़ वास्तुकला शैली में निर्मित।",
+
+  "templeConstructionTitle": "निर्माण की स्थिति",
+  "templeConstructionDesc": "निर्माण का पहला चरण प्रगति पर है।",
+
+  "templeSupportTitle": "आपका सहयोग आवश्यक है",
+  "templeSupportDesc": "मंदिर निर्माण के लिए आपका दान और सेवा आवश्यक है।"
+}

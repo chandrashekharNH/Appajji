@@ -1,0 +1,53 @@
+{
+  "appName": "ಅಪ್ಪಾಜಿ",
+
+  "home": "ಮುಖಪುಟ",
+  "events": "ಕಾರ್ಯಕ್ರಮಗಳು",
+  "media": "ಮಾಧ್ಯಮ",
+  "more": "ಇನ್ನಷ್ಟು",
+
+  "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+  "donate": "ದಾನ",
+  "gallery": "ಗ್ಯಾಲರಿ",
+  "temple": "ಗ್ರ್ಯಾಂಡ್ ದೇವಸ್ಥಾನ",
+  "language": "ಭಾಷೆ",
+
+  "upcoming": "ಮುಂದಿನವು",
+  "past": "ಹಿಂದಿನವು",
+
+  "aboutSwamiji": "ಸ್ವಾಮೀಜಿಯ ಪರಿಚಯ",
+  "upcomingEvents": "ಮುಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು",
+  "viewAll": "ಎಲ್ಲವನ್ನೂ ನೋಡಿ",
+  "templeHighlights": "ದೇವಾಲಯದ ವಿಶೇಷತೆಗಳು",
+
+  "heroQuote": "ಧರ್ಮವನ್ನು ರಕ್ಷಿಸಿದವನನ್ನು ಧರ್ಮ ರಕ್ಷಿಸುತ್ತದೆ",
+
+  "swamijiDesc": "ಧರ್ಮ, ದಯೆ ಮತ್ತು ಸೇವೆಯ ಮೂಲಕ ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಗುರು.",
+
+  "drawerTitle": "ಅಪ್ಪಾಜಿ",
+  "drawerNavigation": "ನಾವಿಗೇಶನ್",
+  "drawerSettings": "ಸೆಟ್ಟಿಂಗ್ಗಳು",
+
+  "drawerHome": "ಮುಖಪುಟ",
+  "drawerAbout": "ನಮ್ಮ ಬಗ್ಗೆ",
+  "drawerTemple": "ಗ್ರ್ಯಾಂಡ್ ದೇವಸ್ಥಾನ",
+  "drawerDonate": "ದಾನ",
+  "drawerGallery": "ಗ್ಯಾಲರಿ",
+  "drawerEvents": "ಕಾರ್ಯಕ್ರಮಗಳು",
+
+  "drawerLanguage": "ಭಾಷೆ",
+
+  "templeTitle": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ವೆಂಕಟೇಶ್ವರ ಮಹಾ ದೇವಾಲಯ",
+
+  "templeVisionTitle": "ದೇವಾಲಯದ ದೃಷ್ಟಿ",
+  "templeVisionDesc": "ಭಕ್ತಿ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮದ ಕೇಂದ್ರವಾಗಿ ಮಹಾ ದೇವಾಲಯ ನಿರ್ಮಾಣ.",
+
+  "templeArchitectureTitle": "ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ವಿನ್ಯಾಸ",
+  "templeArchitectureDesc": "ಪಾರಂಪರಿಕ ದ್ರಾವಿಡ ಶೈಲಿಯಲ್ಲಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.",
+
+  "templeConstructionTitle": "ನಿರ್ಮಾಣ ಸ್ಥಿತಿ",
+  "templeConstructionDesc": "ಮೊದಲ ಹಂತದ ನಿರ್ಮಾಣ ಪ್ರಗತಿಯಲ್ಲಿದೆ.",
+
+  "templeSupportTitle": "ನಿಮ್ಮ ಬೆಂಬಲ ಅಗತ್ಯ",
+  "templeSupportDesc": "ದೇವಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ನಿಮ್ಮ ದಾನ ಮತ್ತು ಸೇವೆ ಅಗತ್ಯ."
+}

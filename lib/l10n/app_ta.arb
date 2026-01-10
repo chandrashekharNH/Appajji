@@ -1,0 +1,53 @@
+{
+  "appName": "அப்பாஜி",
+
+  "home": "முகப்பு",
+  "events": "நிகழ்வுகள்",
+  "media": "மீடியா",
+  "more": "மேலும்",
+
+  "about": "எங்களை பற்றி",
+  "donate": "தானம்",
+  "gallery": "காட்சியகம்",
+  "temple": "மகா கோவில்",
+  "language": "மொழி",
+
+  "upcoming": "வரவிருக்கும்",
+  "past": "கடந்தவை",
+
+  "aboutSwamiji": "ஸ்வாமிஜி பற்றி",
+  "upcomingEvents": "வரவிருக்கும் நிகழ்வுகள்",
+  "viewAll": "அனைத்தையும் காண்க",
+  "templeHighlights": "கோவில் சிறப்பம்சங்கள்",
+
+  "heroQuote": "தர்மத்தை காப்பவர்களை தர்மமே காக்கும்",
+
+  "swamijiDesc": "தர்மம், கருணை மற்றும் சேவையின் மூலம் வழிகாட்டும் ஆன்மிக தலைவர்.",
+
+  "drawerTitle": "அப்பாஜி",
+  "drawerNavigation": "வழிசெலுத்தல்",
+  "drawerSettings": "அமைப்புகள்",
+
+  "drawerHome": "முகப்பு",
+  "drawerAbout": "எங்களை பற்றி",
+  "drawerTemple": "மகா கோவில்",
+  "drawerDonate": "தானம்",
+  "drawerGallery": "காட்சியகம்",
+  "drawerEvents": "நிகழ்வுகள்",
+
+  "drawerLanguage": "மொழி",
+
+  "templeTitle": "ஸ்ரீ லக்ஷ்மி வெங்கடேஸ்வர மகா கோவில்",
+
+  "templeVisionTitle": "கோவிலின் நோக்கம்",
+  "templeVisionDesc": "பக்தி, கலாச்சாரம் மற்றும் ஆன்மிகத்திற்கான மையமாக மகா கோவில் அமைத்தல்.",
+
+  "templeArchitectureTitle": "வாஸ்து & வடிவமைப்பு",
+  "templeArchitectureDesc": "பாரம்பரிய திராவிட வாஸ்து பாணியில் வடிவமைக்கப்பட்டது.",
+
+  "templeConstructionTitle": "கட்டுமான நிலை",
+  "templeConstructionDesc": "முதல் கட்ட கட்டுமானம் நடைபெற்று வருகிறது.",
+
+  "templeSupportTitle": "உங்கள் ஆதரவு தேவை",
+  "templeSupportDesc": "கோவில் கட்டுமானத்திற்கு உங்கள் தானமும் சேவையும் அவசியம்."
+}

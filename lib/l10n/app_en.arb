@@ -1,0 +1,53 @@
+{
+  "appName": "Appaji",
+
+  "home": "Home",
+  "events": "Events",
+  "media": "Media",
+  "more": "More",
+
+  "about": "About Us",
+  "donate": "Donate",
+  "gallery": "Gallery",
+  "temple": "Grand Temple",
+  "language": "Language",
+
+  "upcoming": "Upcoming",
+  "past": "Past",
+
+  "aboutSwamiji": "About Swamiji",
+  "upcomingEvents": "Upcoming Events",
+  "viewAll": "View All",
+  "templeHighlights": "Temple Highlights",
+
+  "heroQuote": "Dharma protects those who protect it",
+
+  "swamijiDesc": "A spiritual guide spreading dharma, compassion, and service.",
+
+  "drawerTitle": "Appaji",
+  "drawerNavigation": "Navigation",
+  "drawerSettings": "Settings",
+
+  "drawerHome": "Home",
+  "drawerAbout": "About Us",
+  "drawerTemple": "Grand Temple",
+  "drawerDonate": "Donate",
+  "drawerGallery": "Gallery",
+  "drawerEvents": "Events",
+
+  "drawerLanguage": "Language",
+
+  "templeTitle": "Shri Lakshmi Venkateshwara Grand Temple",
+
+  "templeVisionTitle": "Temple Vision",
+  "templeVisionDesc": "To build a grand temple as a center of devotion, culture, and spirituality.",
+
+  "templeArchitectureTitle": "Architecture & Design",
+  "templeArchitectureDesc": "Designed in traditional Dravidian architectural style.",
+
+  "templeConstructionTitle": "Construction Status",
+  "templeConstructionDesc": "Phase one of construction is currently in progress.",
+
+  "templeSupportTitle": "Your Support Matters",
+  "templeSupportDesc": "Your donations and service are essential for temple construction."
+}
