@@ -1,4 +1,6 @@
 {
+  "@@locale": "te",
+
   "appName": "అప్పాజీ",
 
   "home": "హోమ్",
@@ -9,20 +11,20 @@
   "about": "మా గురించి",
   "donate": "దానం",
   "gallery": "గ్యాలరీ",
-  "temple": "గ్రాండ్ దేవాలయం",
+  "temple": "మహా ఆలయం",
   "language": "భాష",
 
-  "upcoming": "రాబోయేవి",
-  "past": "గతవి",
+  "upcoming": "రాబోయే",
+  "past": "గత",
 
   "aboutSwamiji": "స్వామీజీ గురించి",
   "upcomingEvents": "రాబోయే కార్యక్రమాలు",
   "viewAll": "అన్నీ చూడండి",
-  "templeHighlights": "దేవాలయ ప్రత్యేకతలు",
+  "templeHighlights": "ఆలయ విశేషాలు",
 
-  "heroQuote": "ధర్మాన్ని కాపాడేవారిని ధర్మమే కాపాడుతుంది",
+  "heroQuote": "ధర్మంలో నిలిచినవారిని ధర్మమే రక్షిస్తుంది",
 
-  "swamijiDesc": "ధర్మం, దయ మరియు సేవ ద్వారా మార్గదర్శనం చేసే ఆధ్యాత్మిక గురువు.",
+  "swamijiDesc": "ధర్మం, కరుణ మరియు సేవను వ్యాప్తి చేసే ఆధ్యాత్మిక మార్గదర్శి.",
 
   "drawerTitle": "అప్పాజీ",
   "drawerNavigation": "నావిగేషన్",
@@ -30,24 +32,74 @@
 
   "drawerHome": "హోమ్",
   "drawerAbout": "మా గురించి",
-  "drawerTemple": "గ్రాండ్ దేవాలయం",
+  "drawerTemple": "మహా ఆలయం",
   "drawerDonate": "దానం",
   "drawerGallery": "గ్యాలరీ",
   "drawerEvents": "కార్యక్రమాలు",
 
   "drawerLanguage": "భాష",
 
-  "templeTitle": "శ్రీ లక్ష్మీ వెంకటేశ్వర మహా దేవాలయం",
+  "templeTitle": "శ్రీ లక్ష్మీ వెంకటేశ్వర మహా ఆలయం",
 
-  "templeVisionTitle": "దేవాలయ దృష్టి",
-  "templeVisionDesc": "భక్తి, సంస్కృతి మరియు ఆధ్యాత్మికతకు కేంద్రంగా మహా దేవాలయ నిర్మాణం.",
+  "templeVisionTitle": "ఆలయ దృష్టి",
+  "templeVisionDesc": "భక్తి, సంస్కృతి మరియు ఆధ్యాత్మిక కేంద్రంగా మహా ఆలయ నిర్మాణం.",
 
   "templeArchitectureTitle": "వాస్తుశిల్పం & రూపకల్పన",
-  "templeArchitectureDesc": "సాంప్రదాయ ద్రావిడ శైలిలో రూపకల్పన చేయబడింది.",
+  "templeArchitectureDesc": "సాంప్రదాయ ద్రావిడ శైలిలో రూపకల్పన.",
 
   "templeConstructionTitle": "నిర్మాణ స్థితి",
   "templeConstructionDesc": "మొదటి దశ నిర్మాణం కొనసాగుతోంది.",
 
-  "templeSupportTitle": "మీ సహాయం అవసరం",
-  "templeSupportDesc": "దేవాలయ నిర్మాణానికి మీ దానం మరియు సేవ అవసరం."
+  "templeSupportTitle": "మీ మద్దతు అవసరం",
+  "templeSupportDesc": "ఆలయ నిర్మాణానికి మీ దానం మరియు సేవ ఎంతో అవసరం.",
+
+  "thought1": "ధర్మంలో జీవించేవారిని ధర్మమే పోషిస్తుంది.",
+  "thought2": "ధర్మ మార్గంలో నడిచినవారికి రక్షణ సహజం.",
+  "thought3": "ధర్మం బలంతో కాదు, నీతితో నిలుస్తుంది.",
+  "thought4": "ధర్మంలో జీవించండి, ధర్మమే మీ కవచం.",
+  "thought5": "ధర్మం ఎప్పుడూ ధర్మాత్ములతో ఉంటుంది.",
+  "thought6": "మానవ సేవే దైవ సేవ.",
+  "thought7": "నిజమైన శాంతి లోపల నుంచే ప్రారంభమవుతుంది.",
+  "thought8": "భక్తి, సహనం జీవనాన్ని తీర్చిదిద్దుతాయి.",
+  "thought9": "ఆధ్యాత్మిక అభివృద్ధే అత్యుత్తమ సాధన.",
+
+  "avatarMatsyaName": "మత్స్య అవతారం",
+  "avatarMatsyaPurpose": "ప్రళయంలో వేదాలు మరియు మానవత్వాన్ని రక్షించాడు.",
+  "avatarMatsyaTeach": "జ్ఞానం మరియు ధర్మ రక్షణ.",
+
+  "avatarKurmaName": "కూర్మ అవతారం",
+  "avatarKurmaPurpose": "సముద్ర మథనంలో మందర పర్వతాన్ని మోయించాడు.",
+  "avatarKurmaTeach": "సహనం మరియు స్థిరత్వం.",
+
+  "avatarVarahaName": "వరాహ అవతారం",
+  "avatarVarahaPurpose": "భూమాతను వినాశనం నుండి రక్షించాడు.",
+  "avatarVarahaTeach": "ప్రకృతి రక్షణ మరియు ధైర్యం.",
+
+  "avatarNarasimhaName": "నరసింహ అవతారం",
+  "avatarNarasimhaPurpose": "భక్తుడు ప్రహ్లాదుని రక్షించాడు.",
+  "avatarNarasimhaTeach": "నిజమైన భక్తికి రక్షణ ఉంటుంది.",
+
+  "avatarVamanaName": "వామన అవతారం",
+  "avatarVamanaPurpose": "బలి చక్రవర్తి అహంకారాన్ని శాంతింపజేశాడు.",
+  "avatarVamanaTeach": "వినయం మరియు వినయశీలత.",
+
+  "avatarParashuramaName": "పరశురామ అవతారం",
+  "avatarParashuramaPurpose": "అన్యాయ పాలకులను నిర్మూలించాడు.",
+  "avatarParashuramaTeach": "న్యాయం మరియు క్రమశిక్షణ.",
+
+  "avatarRamaName": "రామ అవతారం",
+  "avatarRamaPurpose": "ఆదర్శ జీవితం ద్వారా ధర్మ స్థాపన.",
+  "avatarRamaTeach": "కర్తవ్యం, త్యాగం, ధర్మం.",
+
+  "avatarKrishnaName": "కృష్ణ అవతారం",
+  "avatarKrishnaPurpose": "భగవద్గీత ద్వారా మార్గదర్శనం చేశాడు.",
+  "avatarKrishnaTeach": "కర్మయోగం మరియు భక్తి.",
+
+  "avatarBuddhaName": "బుద్ధ అవతారం",
+  "avatarBuddhaPurpose": "అహింస మరియు కరుణ మార్గం బోధించాడు.",
+  "avatarBuddhaTeach": "జాగ్రత్త మరియు కరుణ.",
+
+  "avatarKalkiName": "కల్కి అవతారం",
+  "avatarKalkiPurpose": "కలియుగాంతంలో ధర్మాన్ని పునఃస్థాపిస్తాడు.",
+  "avatarKalkiTeach": "అధర్మం తప్పకుండా నశిస్తుంది."
 }

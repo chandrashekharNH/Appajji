@@ -1,15 +1,17 @@
 {
+  "@@locale": "hi",
+
   "appName": "अप्पाजी",
 
   "home": "मुखपृष्ठ",
   "events": "कार्यक्रम",
   "media": "मीडिया",
-  "more": "अधिक",
+  "more": "और",
 
   "about": "हमारे बारे में",
-  "donate": "दान करें",
+  "donate": "दान",
   "gallery": "गैलरी",
-  "temple": "भव्य मंदिर",
+  "temple": "महान मंदिर",
   "language": "भाषा",
 
   "upcoming": "आगामी",
@@ -18,11 +20,11 @@
   "aboutSwamiji": "स्वामीजी के बारे में",
   "upcomingEvents": "आगामी कार्यक्रम",
   "viewAll": "सभी देखें",
-  "templeHighlights": "मंदिर की विशेषताएँ",
+  "templeHighlights": "मंदिर की विशेषताएं",
 
-  "heroQuote": "धर्म उनकी रक्षा करता है जो धर्म की रक्षा करते हैं",
+  "heroQuote": "धर्म पर चलने वालों की रक्षा धर्म स्वयं करता है",
 
-  "swamijiDesc": "धर्म, करुणा और सेवा के माध्यम से मार्गदर्शन करने वाले आध्यात्मिक गुरु।",
+  "swamijiDesc": "धर्म, करुणा और सेवा का प्रसार करने वाले आध्यात्मिक मार्गदर्शक।",
 
   "drawerTitle": "अप्पाजी",
   "drawerNavigation": "नेविगेशन",
@@ -30,24 +32,74 @@
 
   "drawerHome": "मुखपृष्ठ",
   "drawerAbout": "हमारे बारे में",
-  "drawerTemple": "भव्य मंदिर",
-  "drawerDonate": "दान करें",
+  "drawerTemple": "महान मंदिर",
+  "drawerDonate": "दान",
   "drawerGallery": "गैलरी",
   "drawerEvents": "कार्यक्रम",
 
   "drawerLanguage": "भाषा",
 
-  "templeTitle": "श्री लक्ष्मी वेंकटेश्वर महा मंदिर",
+  "templeTitle": "श्री लक्ष्मी वेंकटेश्वर महान मंदिर",
 
   "templeVisionTitle": "मंदिर की दृष्टि",
-  "templeVisionDesc": "भक्ति, संस्कृति और आध्यात्मिकता के केंद्र के रूप में भव्य मंदिर का निर्माण।",
+  "templeVisionDesc": "भक्ति, संस्कृति और आध्यात्म का केंद्र बनाना।",
 
-  "templeArchitectureTitle": "वास्तुकला और डिज़ाइन",
-  "templeArchitectureDesc": "पारंपरिक द्रविड़ वास्तुकला शैली में निर्मित।",
+  "templeArchitectureTitle": "वास्तुकला और डिजाइन",
+  "templeArchitectureDesc": "पारंपरिक द्रविड़ स्थापत्य शैली में निर्मित।",
 
-  "templeConstructionTitle": "निर्माण की स्थिति",
-  "templeConstructionDesc": "निर्माण का पहला चरण प्रगति पर है।",
+  "templeConstructionTitle": "निर्माण स्थिति",
+  "templeConstructionDesc": "निर्माण का प्रथम चरण प्रगति पर है।",
 
   "templeSupportTitle": "आपका सहयोग आवश्यक है",
-  "templeSupportDesc": "मंदिर निर्माण के लिए आपका दान और सेवा आवश्यक है।"
+  "templeSupportDesc": "मंदिर निर्माण के लिए आपका दान और सेवा अत्यंत आवश्यक है।",
+
+  "thought1": "धर्म में जीने वालों को धर्म ही संबल देता है।",
+  "thought2": "धर्म के मार्ग पर चलने से रक्षा स्वतः मिलती है।",
+  "thought3": "धर्म शक्ति से नहीं, आचरण से सुरक्षित रहता है।",
+  "thought4": "धर्म को अपनाओ, वही तुम्हारी ढाल बनेगा।",
+  "thought5": "धर्म सदैव धर्मात्माओं के साथ रहता है।",
+  "thought6": "मानव सेवा ही ईश्वर सेवा है।",
+  "thought7": "सच्ची शांति भीतर से प्रारंभ होती है।",
+  "thought8": "श्रद्धा, धैर्य और भक्ति जीवन को आकार देते हैं।",
+  "thought9": "आध्यात्मिक उन्नति ही सर्वोच्च उपलब्धि है।",
+
+  "avatarMatsyaName": "मत्स्य अवतार",
+  "avatarMatsyaPurpose": "महाप्रलय में वेदों और मानवता की रक्षा की।",
+  "avatarMatsyaTeach": "ज्ञान और धर्म की रक्षा।",
+
+  "avatarKurmaName": "कूर्म अवतार",
+  "avatarKurmaPurpose": "समुद्र मंथन में मंदराचल पर्वत को धारण किया।",
+  "avatarKurmaTeach": "धैर्य और स्थिरता।",
+
+  "avatarVarahaName": "वराह अवतार",
+  "avatarVarahaPurpose": "पृथ्वी माता को विनाश से बचाया।",
+  "avatarVarahaTeach": "प्रकृति संरक्षण और साहस।",
+
+  "avatarNarasimhaName": "नरसिंह अवतार",
+  "avatarNarasimhaPurpose": "भक्त प्रह्लाद की रक्षा की और अधर्म का नाश किया।",
+  "avatarNarasimhaTeach": "सच्ची भक्ति की रक्षा होती है।",
+
+  "avatarVamanaName": "वामन अवतार",
+  "avatarVamanaPurpose": "राजा बलि के अहंकार को विनम्रता से शांत किया।",
+  "avatarVamanaTeach": "विनय और नम्रता।",
+
+  "avatarParashuramaName": "परशुराम अवतार",
+  "avatarParashuramaPurpose": "अन्यायी और भ्रष्ट शासकों का नाश किया।",
+  "avatarParashuramaTeach": "न्याय और अनुशासन।",
+
+  "avatarRamaName": "राम अवतार",
+  "avatarRamaPurpose": "आदर्श जीवन द्वारा धर्म की स्थापना की।",
+  "avatarRamaTeach": "कर्तव्य, त्याग और धर्म।",
+
+  "avatarKrishnaName": "कृष्ण अवतार",
+  "avatarKrishnaPurpose": "भगवद्गीता के माध्यम से मानवता का मार्गदर्शन किया।",
+  "avatarKrishnaTeach": "कर्मयोग और भक्ति।",
+
+  "avatarBuddhaName": "बुद्ध अवतार",
+  "avatarBuddhaPurpose": "अहिंसा और करुणा का मार्ग सिखाया।",
+  "avatarBuddhaTeach": "सचेतनता और करुणा।",
+
+  "avatarKalkiName": "कल्कि अवतार",
+  "avatarKalkiPurpose": "कलियुग के अंत में धर्म की पुनः स्थापना करेंगे।",
+  "avatarKalkiTeach": "अधर्म का अंत निश्चित है।"
 }

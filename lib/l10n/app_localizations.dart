@@ -322,6 +322,240 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Your donations and service are essential for temple construction.'**
   String get templeSupportDesc;
+
+  /// No description provided for @thought1.
+  ///
+  /// In en, this message translates to:
+  /// **'Dharma sustains those who live by its truth.'**
+  String get thought1;
+
+  /// No description provided for @thought2.
+  ///
+  /// In en, this message translates to:
+  /// **'When one walks the path of Dharma, protection follows naturally.'**
+  String get thought2;
+
+  /// No description provided for @thought3.
+  ///
+  /// In en, this message translates to:
+  /// **'Dharma is not defended by force, but by righteous living.'**
+  String get thought3;
+
+  /// No description provided for @thought4.
+  ///
+  /// In en, this message translates to:
+  /// **'Live in Dharma, and Dharma becomes your shield.'**
+  String get thought4;
+
+  /// No description provided for @thought5.
+  ///
+  /// In en, this message translates to:
+  /// **'Dharma stands with the righteous.'**
+  String get thought5;
+
+  /// No description provided for @thought6.
+  ///
+  /// In en, this message translates to:
+  /// **'Service to humanity is service to the Divine.'**
+  String get thought6;
+
+  /// No description provided for @thought7.
+  ///
+  /// In en, this message translates to:
+  /// **'True peace begins within.'**
+  String get thought7;
+
+  /// No description provided for @thought8.
+  ///
+  /// In en, this message translates to:
+  /// **'Faith, patience, and devotion shape destiny.'**
+  String get thought8;
+
+  /// No description provided for @thought9.
+  ///
+  /// In en, this message translates to:
+  /// **'Spiritual growth is the highest achievement.'**
+  String get thought9;
+
+  /// No description provided for @avatarMatsyaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Matsya Avatar'**
+  String get avatarMatsyaName;
+
+  /// No description provided for @avatarMatsyaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Protected the Vedas and humanity during the great deluge.'**
+  String get avatarMatsyaPurpose;
+
+  /// No description provided for @avatarMatsyaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Preservation of knowledge and righteousness.'**
+  String get avatarMatsyaTeach;
+
+  /// No description provided for @avatarKurmaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Kurma Avatar'**
+  String get avatarKurmaName;
+
+  /// No description provided for @avatarKurmaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Supported Mount Mandara during the churning of the ocean.'**
+  String get avatarKurmaPurpose;
+
+  /// No description provided for @avatarKurmaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Patience and steadfast support.'**
+  String get avatarKurmaTeach;
+
+  /// No description provided for @avatarVarahaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Varaha Avatar'**
+  String get avatarVarahaName;
+
+  /// No description provided for @avatarVarahaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Rescued Mother Earth from destruction.'**
+  String get avatarVarahaPurpose;
+
+  /// No description provided for @avatarVarahaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Protection of nature and courage.'**
+  String get avatarVarahaTeach;
+
+  /// No description provided for @avatarNarasimhaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Narasimha Avatar'**
+  String get avatarNarasimhaName;
+
+  /// No description provided for @avatarNarasimhaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Protected devotee Prahlada and destroyed evil.'**
+  String get avatarNarasimhaPurpose;
+
+  /// No description provided for @avatarNarasimhaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'True devotion is always protected.'**
+  String get avatarNarasimhaTeach;
+
+  /// No description provided for @avatarVamanaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Vamana Avatar'**
+  String get avatarVamanaName;
+
+  /// No description provided for @avatarVamanaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Subdued King Bali’s ego with wisdom.'**
+  String get avatarVamanaPurpose;
+
+  /// No description provided for @avatarVamanaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Humility over pride.'**
+  String get avatarVamanaTeach;
+
+  /// No description provided for @avatarParashuramaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Parashurama Avatar'**
+  String get avatarParashuramaName;
+
+  /// No description provided for @avatarParashuramaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Eliminated corrupt and unjust rulers.'**
+  String get avatarParashuramaPurpose;
+
+  /// No description provided for @avatarParashuramaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Justice and discipline.'**
+  String get avatarParashuramaTeach;
+
+  /// No description provided for @avatarRamaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Rama Avatar'**
+  String get avatarRamaName;
+
+  /// No description provided for @avatarRamaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Established Dharma through ideal conduct.'**
+  String get avatarRamaPurpose;
+
+  /// No description provided for @avatarRamaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Duty, sacrifice, and righteousness.'**
+  String get avatarRamaTeach;
+
+  /// No description provided for @avatarKrishnaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Krishna Avatar'**
+  String get avatarKrishnaName;
+
+  /// No description provided for @avatarKrishnaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Guided humanity through the Bhagavad Gita.'**
+  String get avatarKrishnaPurpose;
+
+  /// No description provided for @avatarKrishnaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Karma Yoga and devotion.'**
+  String get avatarKrishnaTeach;
+
+  /// No description provided for @avatarBuddhaName.
+  ///
+  /// In en, this message translates to:
+  /// **'Buddha Avatar'**
+  String get avatarBuddhaName;
+
+  /// No description provided for @avatarBuddhaPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Taught the path of non-violence and compassion.'**
+  String get avatarBuddhaPurpose;
+
+  /// No description provided for @avatarBuddhaTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Mindfulness and compassion.'**
+  String get avatarBuddhaTeach;
+
+  /// No description provided for @avatarKalkiName.
+  ///
+  /// In en, this message translates to:
+  /// **'Kalki Avatar'**
+  String get avatarKalkiName;
+
+  /// No description provided for @avatarKalkiPurpose.
+  ///
+  /// In en, this message translates to:
+  /// **'Will restore Dharma at the end of Kali Yuga.'**
+  String get avatarKalkiPurpose;
+
+  /// No description provided for @avatarKalkiTeach.
+  ///
+  /// In en, this message translates to:
+  /// **'Evil will ultimately be destroyed.'**
+  String get avatarKalkiTeach;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

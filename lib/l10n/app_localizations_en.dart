@@ -118,4 +118,121 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get templeSupportDesc => 'Your donations and service are essential for temple construction.';
+
+  @override
+  String get thought1 => 'Dharma sustains those who live by its truth.';
+
+  @override
+  String get thought2 => 'When one walks the path of Dharma, protection follows naturally.';
+
+  @override
+  String get thought3 => 'Dharma is not defended by force, but by righteous living.';
+
+  @override
+  String get thought4 => 'Live in Dharma, and Dharma becomes your shield.';
+
+  @override
+  String get thought5 => 'Dharma stands with the righteous.';
+
+  @override
+  String get thought6 => 'Service to humanity is service to the Divine.';
+
+  @override
+  String get thought7 => 'True peace begins within.';
+
+  @override
+  String get thought8 => 'Faith, patience, and devotion shape destiny.';
+
+  @override
+  String get thought9 => 'Spiritual growth is the highest achievement.';
+
+  @override
+  String get avatarMatsyaName => 'Matsya Avatar';
+
+  @override
+  String get avatarMatsyaPurpose => 'Protected the Vedas and humanity during the great deluge.';
+
+  @override
+  String get avatarMatsyaTeach => 'Preservation of knowledge and righteousness.';
+
+  @override
+  String get avatarKurmaName => 'Kurma Avatar';
+
+  @override
+  String get avatarKurmaPurpose => 'Supported Mount Mandara during the churning of the ocean.';
+
+  @override
+  String get avatarKurmaTeach => 'Patience and steadfast support.';
+
+  @override
+  String get avatarVarahaName => 'Varaha Avatar';
+
+  @override
+  String get avatarVarahaPurpose => 'Rescued Mother Earth from destruction.';
+
+  @override
+  String get avatarVarahaTeach => 'Protection of nature and courage.';
+
+  @override
+  String get avatarNarasimhaName => 'Narasimha Avatar';
+
+  @override
+  String get avatarNarasimhaPurpose => 'Protected devotee Prahlada and destroyed evil.';
+
+  @override
+  String get avatarNarasimhaTeach => 'True devotion is always protected.';
+
+  @override
+  String get avatarVamanaName => 'Vamana Avatar';
+
+  @override
+  String get avatarVamanaPurpose => 'Subdued King Bali’s ego with wisdom.';
+
+  @override
+  String get avatarVamanaTeach => 'Humility over pride.';
+
+  @override
+  String get avatarParashuramaName => 'Parashurama Avatar';
+
+  @override
+  String get avatarParashuramaPurpose => 'Eliminated corrupt and unjust rulers.';
+
+  @override
+  String get avatarParashuramaTeach => 'Justice and discipline.';
+
+  @override
+  String get avatarRamaName => 'Rama Avatar';
+
+  @override
+  String get avatarRamaPurpose => 'Established Dharma through ideal conduct.';
+
+  @override
+  String get avatarRamaTeach => 'Duty, sacrifice, and righteousness.';
+
+  @override
+  String get avatarKrishnaName => 'Krishna Avatar';
+
+  @override
+  String get avatarKrishnaPurpose => 'Guided humanity through the Bhagavad Gita.';
+
+  @override
+  String get avatarKrishnaTeach => 'Karma Yoga and devotion.';
+
+  @override
+  String get avatarBuddhaName => 'Buddha Avatar';
+
+  @override
+  String get avatarBuddhaPurpose => 'Taught the path of non-violence and compassion.';
+
+  @override
+  String get avatarBuddhaTeach => 'Mindfulness and compassion.';
+
+  @override
+  String get avatarKalkiName => 'Kalki Avatar';
+
+  @override
+  String get avatarKalkiPurpose => 'Will restore Dharma at the end of Kali Yuga.';
+
+  @override
+  String get avatarKalkiTeach => 'Evil will ultimately be destroyed.';
 }

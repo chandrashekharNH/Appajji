@@ -1,4 +1,6 @@
 {
+  "@@locale": "kn",
+
   "appName": "ಅಪ್ಪಾಜಿ",
 
   "home": "ಮುಖಪುಟ",
@@ -9,20 +11,20 @@
   "about": "ನಮ್ಮ ಬಗ್ಗೆ",
   "donate": "ದಾನ",
   "gallery": "ಗ್ಯಾಲರಿ",
-  "temple": "ಗ್ರ್ಯಾಂಡ್ ದೇವಸ್ಥಾನ",
+  "temple": "ಮಹಾ ದೇವಸ್ಥಾನ",
   "language": "ಭಾಷೆ",
 
-  "upcoming": "ಮುಂದಿನವು",
+  "upcoming": "ಬರುವ ಕಾರ್ಯಕ್ರಮಗಳು",
   "past": "ಹಿಂದಿನವು",
 
-  "aboutSwamiji": "ಸ್ವಾಮೀಜಿಯ ಪರಿಚಯ",
+  "aboutSwamiji": "ಸ್ವಾಮೀಜಿಯ ಬಗ್ಗೆ",
   "upcomingEvents": "ಮುಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು",
   "viewAll": "ಎಲ್ಲವನ್ನೂ ನೋಡಿ",
-  "templeHighlights": "ದೇವಾಲಯದ ವಿಶೇಷತೆಗಳು",
+  "templeHighlights": "ದೇವಾಲಯದ ವೈಶಿಷ್ಟ್ಯಗಳು",
 
-  "heroQuote": "ಧರ್ಮವನ್ನು ರಕ್ಷಿಸಿದವನನ್ನು ಧರ್ಮ ರಕ್ಷಿಸುತ್ತದೆ",
+  "heroQuote": "ಧರ್ಮದಲ್ಲಿ ನಿಲ್ಲುವವರನ್ನು ಧರ್ಮವೇ ರಕ್ಷಿಸುತ್ತದೆ",
 
-  "swamijiDesc": "ಧರ್ಮ, ದಯೆ ಮತ್ತು ಸೇವೆಯ ಮೂಲಕ ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಗುರು.",
+  "swamijiDesc": "ಧರ್ಮ, ಕರುಣೆ ಮತ್ತು ಸೇವೆಯನ್ನು ಹರಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದರ್ಶಿ.",
 
   "drawerTitle": "ಅಪ್ಪಾಜಿ",
   "drawerNavigation": "ನಾವಿಗೇಶನ್",
@@ -30,7 +32,7 @@
 
   "drawerHome": "ಮುಖಪುಟ",
   "drawerAbout": "ನಮ್ಮ ಬಗ್ಗೆ",
-  "drawerTemple": "ಗ್ರ್ಯಾಂಡ್ ದೇವಸ್ಥಾನ",
+  "drawerTemple": "ಮಹಾ ದೇವಸ್ಥಾನ",
   "drawerDonate": "ದಾನ",
   "drawerGallery": "ಗ್ಯಾಲರಿ",
   "drawerEvents": "ಕಾರ್ಯಕ್ರಮಗಳು",
@@ -40,7 +42,7 @@
   "templeTitle": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ವೆಂಕಟೇಶ್ವರ ಮಹಾ ದೇವಾಲಯ",
 
   "templeVisionTitle": "ದೇವಾಲಯದ ದೃಷ್ಟಿ",
-  "templeVisionDesc": "ಭಕ್ತಿ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮದ ಕೇಂದ್ರವಾಗಿ ಮಹಾ ದೇವಾಲಯ ನಿರ್ಮಾಣ.",
+  "templeVisionDesc": "ಭಕ್ತಿ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮದ ಕೇಂದ್ರವಾಗಿ ಮಹಾ ದೇವಾಲಯ ನಿರ್ಮಿಸುವುದು.",
 
   "templeArchitectureTitle": "ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ವಿನ್ಯಾಸ",
   "templeArchitectureDesc": "ಪಾರಂಪರಿಕ ದ್ರಾವಿಡ ಶೈಲಿಯಲ್ಲಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.",
@@ -49,5 +51,55 @@
   "templeConstructionDesc": "ಮೊದಲ ಹಂತದ ನಿರ್ಮಾಣ ಪ್ರಗತಿಯಲ್ಲಿದೆ.",
 
   "templeSupportTitle": "ನಿಮ್ಮ ಬೆಂಬಲ ಅಗತ್ಯ",
-  "templeSupportDesc": "ದೇವಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ನಿಮ್ಮ ದಾನ ಮತ್ತು ಸೇವೆ ಅಗತ್ಯ."
+  "templeSupportDesc": "ದೇವಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ನಿಮ್ಮ ದಾನ ಮತ್ತು ಸೇವೆ ಅತ್ಯಂತ ಅಗತ್ಯ.",
+
+  "thought1": "ಧರ್ಮದಲ್ಲಿ ಬದುಕುವವರನ್ನು ಧರ್ಮವೇ ಪೋಷಿಸುತ್ತದೆ.",
+  "thought2": "ಧರ್ಮದ ಮಾರ್ಗದಲ್ಲಿ ನಡೆಯುವವರಿಗೆ ರಕ್ಷಣೆ ಸ್ವಾಭಾವಿಕವಾಗಿ ದೊರೆಯುತ್ತದೆ.",
+  "thought3": "ಧರ್ಮವನ್ನು ಬಲದಿಂದಲ್ಲ, ನೀತಿಯ ಬದುಕಿನಿಂದ ರಕ್ಷಿಸಬೇಕು.",
+  "thought4": "ಧರ್ಮದಲ್ಲಿ ಬದುಕಿ, ಧರ್ಮವನ್ನೇ ನಿಮ್ಮ ಕವಚವಾಗಿಸಿಕೊಳ್ಳಿ.",
+  "thought5": "ಧರ್ಮ ಸದಾ ನೀತಿವಂತರ ಜೊತೆ ನಿಲ್ಲುತ್ತದೆ.",
+  "thought6": "ಮಾನವ ಸೇವೆಯೇ ದೈವ ಸೇವೆ.",
+  "thought7": "ನಿಜವಾದ ಶಾಂತಿ ಒಳಗಿನಿಂದ ಆರಂಭವಾಗುತ್ತದೆ.",
+  "thought8": "ಶ್ರದ್ಧೆ, ಸಹನೆ ಮತ್ತು ಭಕ್ತಿ ಜೀವನವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "thought9": "ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯೇ ಶ್ರೇಷ್ಠ ಸಾಧನೆ.",
+
+  "avatarMatsyaName": "ಮತ್ಸ್ಯ ಅವತಾರ",
+  "avatarMatsyaPurpose": "ಮಹಾಪ್ರಳಯದ ಸಮಯದಲ್ಲಿ ವೇದಗಳು ಮತ್ತು ಮಾನವತೆಯನ್ನು ರಕ್ಷಿಸಿದರು.",
+  "avatarMatsyaTeach": "ಜ್ಞಾನ ಮತ್ತು ಧರ್ಮದ ಸಂರಕ್ಷಣೆ.",
+
+  "avatarKurmaName": "ಕೂರ್ಮ ಅವತಾರ",
+  "avatarKurmaPurpose": "ಸಮುದ್ರ ಮಥನದ ವೇಳೆ ಮಂದಾರ ಪರ್ವತಕ್ಕೆ ಆಧಾರ ನೀಡಿದರು.",
+  "avatarKurmaTeach": "ಸಹನೆ ಮತ್ತು ಸ್ಥಿರತೆ.",
+
+  "avatarVarahaName": "ವರಾಹ ಅವತಾರ",
+  "avatarVarahaPurpose": "ಭೂಮಾತೆಯನ್ನು ವಿನಾಶದಿಂದ ರಕ್ಷಿಸಿದರು.",
+  "avatarVarahaTeach": "ಪ್ರಕೃತಿ ಸಂರಕ್ಷಣೆ ಮತ್ತು ಧೈರ್ಯ.",
+
+  "avatarNarasimhaName": "ನರಸಿಂಹ ಅವತಾರ",
+  "avatarNarasimhaPurpose": "ಭಕ್ತ ಪ್ರಹ್ಲಾದನನ್ನು ರಕ್ಷಿಸಿ ದುಷ್ಟನಾಶ ಮಾಡಿದರು.",
+  "avatarNarasimhaTeach": "ಭಕ್ತಿಯನ್ನು ಸದಾ ರಕ್ಷಿಸಲಾಗುತ್ತದೆ.",
+
+  "avatarVamanaName": "ವಾಮನ ಅವತಾರ",
+  "avatarVamanaPurpose": "ರಾಜ ಬಲಿಯ ಅಹಂಕಾರವನ್ನು ಜ್ಞಾನದಿಂದ ಶಮನಗೊಳಿಸಿದರು.",
+  "avatarVamanaTeach": "ವಿನಯವೇ ಶ್ರೇಷ್ಠ.",
+
+  "avatarParashuramaName": "ಪರಶುರಾಮ ಅವತಾರ",
+  "avatarParashuramaPurpose": "ಅನ್ಯಾಯ ಮತ್ತು ಭ್ರಷ್ಟ ರಾಜರನ್ನು ನಿರ್ಮೂಲನೆ ಮಾಡಿದರು.",
+  "avatarParashuramaTeach": "ನ್ಯಾಯ ಮತ್ತು ಶಿಸ್ತು.",
+
+  "avatarRamaName": "ರಾಮ ಅವತಾರ",
+  "avatarRamaPurpose": "ಆದರ್ಶ ಜೀವನದ ಮೂಲಕ ಧರ್ಮವನ್ನು ಸ್ಥಾಪಿಸಿದರು.",
+  "avatarRamaTeach": "ಕರ್ತವ್ಯ, ತ್ಯಾಗ ಮತ್ತು ಧರ್ಮ.",
+
+  "avatarKrishnaName": "ಕೃಷ್ಣ ಅವತಾರ",
+  "avatarKrishnaPurpose": "ಭಗವದ್ಗೀತೆಯ ಮೂಲಕ ಮಾನವತೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದರು.",
+  "avatarKrishnaTeach": "ಕರ್ಮಯೋಗ ಮತ್ತು ಭಕ್ತಿ.",
+
+  "avatarBuddhaName": "ಬುದ್ಧ ಅವತಾರ",
+  "avatarBuddhaPurpose": "ಅಹಿಂಸೆ ಮತ್ತು ಕರುಣೆಯ ಮಾರ್ಗವನ್ನು ಬೋಧಿಸಿದರು.",
+  "avatarBuddhaTeach": "ಜಾಗೃತತೆ ಮತ್ತು ಕರುಣೆ.",
+
+  "avatarKalkiName": "ಕಲ್ಕಿ ಅವತಾರ",
+  "avatarKalkiPurpose": "ಕಲಿಯುಗಾಂತ್ಯದಲ್ಲಿ ಧರ್ಮವನ್ನು ಪುನಃ ಸ್ಥಾಪಿಸುವರು.",
+  "avatarKalkiTeach": "ಅಧರ್ಮ ಅಂತಿಮವಾಗಿ ನಾಶವಾಗುತ್ತದೆ."
 }

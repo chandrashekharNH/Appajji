@@ -1,4 +1,6 @@
 {
+  "@@locale": "en",
+
   "appName": "Appaji",
 
   "home": "Home",
@@ -49,5 +51,55 @@
   "templeConstructionDesc": "Phase one of construction is currently in progress.",
 
   "templeSupportTitle": "Your Support Matters",
-  "templeSupportDesc": "Your donations and service are essential for temple construction."
+  "templeSupportDesc": "Your donations and service are essential for temple construction.",
+
+  "thought1": "Dharma sustains those who live by its truth.",
+  "thought2": "When one walks the path of Dharma, protection follows naturally.",
+  "thought3": "Dharma is not defended by force, but by righteous living.",
+  "thought4": "Live in Dharma, and Dharma becomes your shield.",
+  "thought5": "Dharma stands with the righteous.",
+  "thought6": "Service to humanity is service to the Divine.",
+  "thought7": "True peace begins within.",
+  "thought8": "Faith, patience, and devotion shape destiny.",
+  "thought9": "Spiritual growth is the highest achievement.",
+
+  "avatarMatsyaName": "Matsya Avatar",
+  "avatarMatsyaPurpose": "Protected the Vedas and humanity during the great deluge.",
+  "avatarMatsyaTeach": "Preservation of knowledge and righteousness.",
+
+  "avatarKurmaName": "Kurma Avatar",
+  "avatarKurmaPurpose": "Supported Mount Mandara during the churning of the ocean.",
+  "avatarKurmaTeach": "Patience and steadfast support.",
+
+  "avatarVarahaName": "Varaha Avatar",
+  "avatarVarahaPurpose": "Rescued Mother Earth from destruction.",
+  "avatarVarahaTeach": "Protection of nature and courage.",
+
+  "avatarNarasimhaName": "Narasimha Avatar",
+  "avatarNarasimhaPurpose": "Protected devotee Prahlada and destroyed evil.",
+  "avatarNarasimhaTeach": "True devotion is always protected.",
+
+  "avatarVamanaName": "Vamana Avatar",
+  "avatarVamanaPurpose": "Subdued King Bali’s ego with wisdom.",
+  "avatarVamanaTeach": "Humility over pride.",
+
+  "avatarParashuramaName": "Parashurama Avatar",
+  "avatarParashuramaPurpose": "Eliminated corrupt and unjust rulers.",
+  "avatarParashuramaTeach": "Justice and discipline.",
+
+  "avatarRamaName": "Rama Avatar",
+  "avatarRamaPurpose": "Established Dharma through ideal conduct.",
+  "avatarRamaTeach": "Duty, sacrifice, and righteousness.",
+
+  "avatarKrishnaName": "Krishna Avatar",
+  "avatarKrishnaPurpose": "Guided humanity through the Bhagavad Gita.",
+  "avatarKrishnaTeach": "Karma Yoga and devotion.",
+
+  "avatarBuddhaName": "Buddha Avatar",
+  "avatarBuddhaPurpose": "Taught the path of non-violence and compassion.",
+  "avatarBuddhaTeach": "Mindfulness and compassion.",
+
+  "avatarKalkiName": "Kalki Avatar",
+  "avatarKalkiPurpose": "Will restore Dharma at the end of Kali Yuga.",
+  "avatarKalkiTeach": "Evil will ultimately be destroyed."
 }
